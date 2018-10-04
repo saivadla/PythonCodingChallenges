@@ -1,4 +1,4 @@
-path = 'C:\\Users\\C5254143\\Documents\\codingChallenges\\inputdata.txt'
+path = 'C:\\Users\\Documents\\codingChallenges\\inputdata.txt'
 
 with open(path,'r') as f:
         input = [line.strip() for line in f]
